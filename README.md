@@ -141,7 +141,7 @@ No external brokers or frameworks are required.
 ┌─────────────────────────────────────────────┐
 │                                             │
 │   AES-256-GCM Encrypted, Length-Prefixed    │
-│              Communication                   │
+│              Communication                  │
 │                                             │
 │      Server A ◄══════════════════► Server B │
 │                                             │
@@ -248,7 +248,7 @@ SecureS2S/
 ├── assets/
 │   └── photo.png
 │
-├── crypto.py        # RSA/AES primitives + send_framed/recv_framed/recv_exact
+├── crypto.py      
 ├── server_A.py
 ├── server_B.py
 │
