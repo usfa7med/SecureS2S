@@ -166,7 +166,7 @@ https://drive.google.com/drive/folders/1Nj8TFVBfTfe7szLYRo91aSQZ5-aqncpW?usp=sha
 
 ## 📖 Case Study
 
-[![Case Study](https://img.shields.io/badge/Read-Case%20Study-blue?style=for-the-badge)](https://usfahmed.dev/projects/secure-s2s)
+[![Case Study](https://img.shields.io/badge/Read-Case%20Study-blue?style=for-the-badge)](https://usfahmed.dev/projects/SecureS2S)
 
 A comprehensive technical article explaining the architecture, cryptographic workflow, framing protocol, implementation details, security trade-offs, and future improvements.
 
