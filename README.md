@@ -384,10 +384,10 @@ For real-world deployments, proper certificate management, authentication, repla
 
 **Youssef Ahmed Abdelfatah**
 
-Portfolio: https://usfahmed.dev
+🌐 **Portfolio:** https://usfahmed.dev
 
-GitHub: https://github.com/usfa7med
+💻 **GitHub:** https://github.com/usfa7med
 
-LinkedIn: https://linkedin.com/in/usfahmed
+💼 **LinkedIn:** https://linkedin.com/in/usfa7med
 
-Email: hello@usfahmed.dev
+✉️ **Email:** hello@usfahmed.dev
